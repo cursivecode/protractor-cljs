@@ -7,7 +7,7 @@ protractor-cljs is a library for working with the protractor testing framework
 Add the following dependency to your `project.clj` file:
 
 ```
-  [protractor-cljs "0.1.0"]
+  [protractor-cljs "0.1.1"]
 ```    
 
 ## Usage

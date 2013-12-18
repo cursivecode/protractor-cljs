@@ -1,12 +1,9 @@
-(defproject protractor-cljs "0.1.0"
+(defproject protractor-cljs "0.1.1"
   :description "Library for working with protractor"
   :url "http://github.com/cursivecode/protractor-cljs"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[org.clojure/clojure "1.5.1"]
-                 [org.clojure/clojurescript "0.0-2120"]
-                 [jasmine-cljs "0.1.2"]
-                 ]
+  :dependencies [[jasmine-cljs "0.1.3"]]
 
   :min-lein-version "2.0.0"
   :source-paths ["src/clj"]
