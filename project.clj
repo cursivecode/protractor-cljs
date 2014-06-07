@@ -1,4 +1,4 @@
-(defproject protractor-cljs "0.1.2"
+(defproject protractor-cljs "0.1.3"
   :description "Library for working with protractor"
   :url "http://github.com/cursivecode/protractor-cljs"
   :license {:name "Eclipse Public License"
