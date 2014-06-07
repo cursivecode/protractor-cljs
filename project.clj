@@ -3,7 +3,7 @@
   :url "http://github.com/cursivecode/protractor-cljs"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
-  :dependencies [[jasmine-cljs "0.1.4"]]
+  :dependencies [[jasmine-cljs "0.1.5"]]
 
   :min-lein-version "2.0.0"
   :source-paths ["src/clj"]
